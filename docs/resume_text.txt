@@ -1,0 +1,102 @@
+H A R I N D E R   S I N G H  
+S H A R E P O I N T   &   P O W E R   P L A T F O R M   D E V E L O P E R 
+
+Chennai, India | +91-9911446838 | singh.harry050296@gmail.com | LinkedIn 
+
+P R O F E S S I O N A L   S U M M A R Y    
+
+Results-driven SharePoint and Microsoft Power Platform Developer with 5+ years of hands-on experience 
+in building scalable enterprise solutions, automating business processes, and integrating Microsoft 365 
+services. Skilled in Power Apps (Canvas & Model-driven), Power Automate, SharePoint Online, Dataverse, 
+and  Azure  DevOps.  Adept  at  low-code/no-code  development,  governance,  performance  optimization, 
+and promoting user adoption. Committed to developing user-friendly applications. 
+
+E X P E R I E N C E    
+
+SharePoint and Power Platform Developer - Senior Associate Consultant 
+
+Infosys Ltd | Chennai, India 
+
+Mar 2025 - Present 
+
+• Developed Power Apps applications that reduced manual workload by 70% and improved user 
+experience. 
+
+• Automated multi-system workflows via Power Automate integrating Outlook, Dataverse, and 
+SharePoint. 
+
+• Implemented metadata-driven navigation and advanced permission models in SharePoint Online. 
+
+• Led CI/CD processes using Azure DevOps pipelines for efficient ALM across Power Platform apps. 
+
+• Optimized performance of complex apps by applying query delegation, caching, and lazy loading. 
+
+SharePoint and Power Platform Developer - Sales Enablement III 
+DXC Technology | Chennai, India  
+
+May 2020 – Mar 2025 
+
+• Delivered department-specific Power Apps solutions, significantly enhancing process and speed. 
+
+• Built flows to connect legacy systems, enabling real-time data sync and reducing human errors. 
+
+• Created dynamic Power BI dashboards to inform leadership decisions with actionable insights. 
+
+• Collaborated with business stakeholders, led UAT, and conducted user enablement workshops. 
+
+• Converted legacy Win Automation bots to Power Automate solutions, saving licensing costs. 
+
+S K I L L S  
+
+• Power Platform: Power Apps (Canvas, Model-driven), Power Automate, Power BI, Power Fx 
+
+• SharePoint: SharePoint Online, REST API, Conditional Formatting, Permissions Management 
+
+• Integrations: Dataverse, Teams, Outlook, Excel, SQL 
+
+• DevOps & Lifecycle: CI/CD with Azure DevOps, ALM, Git 
+
+• Others: HTML/CSS, Version Control, Governance, Documentation & End-user Training 
+
+ 
+ 
+C E R T I F I C A T I O N S  
+
+• Microsoft Certified: Power Platform Fundamentals (PL-900) – June 2023 
+
+• Data Science Certificate – Edwisor 
+
+P R O J E C T   H I G H L I G H T S  
+
+Enterprise Leave Management System 
+
+• Replaced manual email-based process with Power Apps + Power Automate solution. 
+
+• Reduced approval turnaround by 40% using real-time tracking and role-based flows. 
+
+Centralized Project Tracker 
+
+• Migrated Excel-based task tracking to Power Platform, improving visibility and accountability. 
+
+• Integrated Gantt charts, Power BI dashboards, and automated alerts for delayed tasks. 
+
+Proposal Generator App 
+
+• Designed a dynamic proposal builder in Power Apps reducing creation time from 2 hours to 15 mins. 
+
+• Integrated pre-filled fields like client name, scope, and pricing using SharePoint metadata. 
+
+Bot Automation with Power Platform 
+
+• Developed 13 unattended bots to replace swivel tasks across Aries and Aldea tools. 
+
+• Implemented auto-assignment and closure workflows, eliminating redundant human intervention. 
+
+E D U C A T I O N  
+
+Bachelor of Technology (B.Tech) – Computer Science 
+Maharshi Dayanand University | Rohtak  
+
+ 
+ 
+
