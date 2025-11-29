@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Personal portfolio website",
+  "scripts": {
+    "start": "live-server --port=8080 || python -m http.server 8000"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
